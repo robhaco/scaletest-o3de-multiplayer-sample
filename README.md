@@ -38,7 +38,7 @@ After the init process completes and the virtualenv is created, use the followin
 $ .venv\Scripts\activate.bat
 
 # in PowerShell
-$ .venv\Scripts\Activate.ps1
+$ .venv\Scripts\activate.ps1
 ```
 
 Once the virtualenv is activated, run the following to install required dependencies:
