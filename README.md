@@ -87,6 +87,7 @@ Please note that the Amazon Kinesis SQL analytics application created by the AWS
 ## Running Multiplayer Test Scaler
 Open a command terminal in the root directory of this project for executing commands.
 
+
 ### Build and package the multiplayer project
 Run `python main.py build --config-file [config_file_name] --platform [platform_name]` to create the multiplayer project package. 
 
